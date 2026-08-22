@@ -139,7 +139,8 @@ h1 {
 }
 
 .section-content > p {
-  max-width: 1040px;
+  width: 100%;
+  max-width: none;
   margin-bottom: 0;
 }
 
