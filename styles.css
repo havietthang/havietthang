@@ -47,7 +47,8 @@ a:focus-visible {
   min-height: 72px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
+  gap: 42px;
 }
 
 .name {
@@ -216,6 +217,7 @@ footer {
 
   .nav {
     min-height: 64px;
+    gap: 24px;
   }
 
   .nav nav {
